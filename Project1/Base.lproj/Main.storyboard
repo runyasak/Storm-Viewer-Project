@@ -61,10 +61,10 @@
                         <viewLayoutGuide key="safeArea" id="nYE-yz-WI4"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
-                            <constraint firstItem="a0L-GU-Kl8" firstAttribute="centerX" secondItem="88Q-Ig-YTv" secondAttribute="centerX" id="1dG-4Q-4Mr"/>
-                            <constraint firstItem="a0L-GU-Kl8" firstAttribute="leading" secondItem="nYE-yz-WI4" secondAttribute="leading" id="CMS-yC-3Ae"/>
-                            <constraint firstItem="a0L-GU-Kl8" firstAttribute="top" secondItem="88Q-Ig-YTv" secondAttribute="topMargin" constant="-44" id="J6o-51-ZpW"/>
-                            <constraint firstItem="a0L-GU-Kl8" firstAttribute="centerY" secondItem="88Q-Ig-YTv" secondAttribute="centerY" id="fEf-Iw-a01"/>
+                            <constraint firstItem="a0L-GU-Kl8" firstAttribute="top" secondItem="88Q-Ig-YTv" secondAttribute="top" id="Naq-wa-yeG"/>
+                            <constraint firstItem="a0L-GU-Kl8" firstAttribute="trailing" secondItem="nYE-yz-WI4" secondAttribute="trailing" id="PEg-Cz-iRH"/>
+                            <constraint firstAttribute="bottom" secondItem="a0L-GU-Kl8" secondAttribute="bottom" id="cf9-6A-qbH"/>
+                            <constraint firstItem="a0L-GU-Kl8" firstAttribute="leading" secondItem="nYE-yz-WI4" secondAttribute="leading" id="fgK-OX-poh"/>
                         </constraints>
                     </view>
                     <connections>
