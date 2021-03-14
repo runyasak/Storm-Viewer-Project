@@ -49,7 +49,7 @@
         <!--Detail View Controller-->
         <scene sceneID="X9U-r9-faS">
             <objects>
-                <viewController id="ULd-2q-uwW" customClass="DetailViewController" customModule="Project1" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="Detail" id="ULd-2q-uwW" customClass="DetailViewController" customModule="Project1" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="88Q-Ig-YTv">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
